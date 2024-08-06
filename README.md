@@ -1,1 +1,2 @@
-# SOC PROJECT
+## SOC PROJECT
+###Speech Emotion Recognition
